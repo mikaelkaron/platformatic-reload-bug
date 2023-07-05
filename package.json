@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "platformatic start"
+  },
+  "devDependencies": {
+    "fastify": "^4.19.2"
+  },
+  "dependencies": {
+    "fastify-openid-client": "5.0.0",
+    "fastify-plugin": "^4.5.0",
+    "platformatic": "^0.28.1"
+  },
+  "engines": {
+    "node": "^18.8.0 || >=19"
+  }
+}
